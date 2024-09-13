@@ -28,7 +28,7 @@ teacher = Teacher(
 <td>
 
 ```python
-from model import Teacher
+from model import Student
 
 student = Student(
     image_size = img_size,
